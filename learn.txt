@@ -1,0 +1,15 @@
+1. 初始化git       git init
+2. 初始化姓名 邮箱    git --global user.name
+git ---global user.email
+
+3. 创建 .gitignore 文件
+4. 提交缓存区    git add .
+5. 提交文件   git commit   
+
+5-1 查看当前文件状态  git status
+5-2 查看日志文件  git-log
+
+6. 创建分支   git branch  分支名
+7. 切换分支 git checkout 分支名
+8. 融合分支  git merge 分支名
+9. 删除分支  git branch -d 分支名
