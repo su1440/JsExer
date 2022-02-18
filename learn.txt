@@ -9,6 +9,8 @@ git ---global user.email
 5-1 查看当前文件状态  git status
 5-2 查看日志文件  git-log
 
+5-3 版本回退 git reset --hard 版本id
+
 6. 创建分支   git branch  分支名
 7. 切换分支 git checkout 分支名
 8. 融合分支  git merge 分支名
