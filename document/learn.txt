@@ -15,3 +15,6 @@ git ---global user.email
 7. 切换分支 git checkout 分支名
 8. 融合分支  git merge 分支名
 9. 删除分支  git branch -d 分支名
+
+10. 生成SSH key  ssh-keygen -t rsa -C '邮箱'  
+把生成的公钥 id_rsa.pub 复制到github即可
