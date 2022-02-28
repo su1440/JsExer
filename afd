@@ -1,0 +1,102 @@
+[33mcommit c9102ce54cf934b165f461eaebc0db5244b31b6c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: suzz <1960279300@qq.com>
+Date:   Mon Feb 28 22:46:47 2022 +0800
+
+    add text_1 file
+
+[33mcommit 25e6053c906501fb020f7b23d2e49bbb86f3098b[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: suzz <1960279300@qq.com>
+Date:   Tue Feb 22 12:44:10 2022 +0800
+
+    dpcfirstfile
+
+[33mcommit 945d6d713c2d2b8d58a4d77cdc8af1df751d681b[m
+Author: su1 <160279300@qq.com>
+Date:   Sat Feb 19 11:53:17 2022 +0800
+
+    add bullshit file
+
+[33mcommit b200a17fa69ea04b62a4f611345e3b94a478eadc[m
+Author: su <assosu@gmail.com>
+Date:   Sat Feb 19 00:24:54 2022 +0800
+
+    add learnfile about ssh rsa
+
+[33mcommit 781954b2a619906f0d519066d08a2f0fd5bae870[m
+Author: su <assosu@gmail.com>
+Date:   Sat Feb 19 00:22:15 2022 +0800
+
+    add js file
+
+[33mcommit 05442130b38ddd3b8e8aa151f4c851c0bf2871dd[m
+Author: su <assosu@gmail.com>
+Date:   Sat Feb 19 00:11:57 2022 +0800
+
+    add document
+
+[33mcommit 8906281827d67eef982fc321db3bbf21e76bef0f[m
+Merge: 17e0fd9 9ee47d0
+Author: su <assosu@gmail.com>
+Date:   Fri Feb 18 23:23:35 2022 +0800
+
+    Merge branch 'dev01'
+
+[33mcommit 17e0fd9f9f9eaa56f1c5b17264925b7934c9c6e3[m
+Author: su <assosu@gmail.com>
+Date:   Fri Feb 18 23:23:11 2022 +0800
+
+    i don't know
+
+[33mcommit 9ee47d072cf97d35c06efce8eb0583d3596481a4[m
+Author: su <assosu@gmail.com>
+Date:   Fri Feb 18 23:21:20 2022 +0800
+
+    add reset code
+
+[33mcommit 02b859a0906b0312ac067efef6915600eaadea25[m
+Author: su <assosu@gmail.com>
+Date:   Fri Feb 18 23:16:06 2022 +0800
+
+    add dev_learn file
+
+[33mcommit b92871a7d063278514b057d4fc451457473b5ab6[m
+Author: su <assosu@gmail.com>
+Date:   Fri Feb 18 23:13:04 2022 +0800
+
+    add learn file
+
+[33mcommit 1a22d29f094c440c3190b1d102826c913605d32c[m
+Author: su <assosu@gmail.com>
+Date:   Fri Feb 18 23:07:56 2022 +0800
+
+    delete all file
+
+[33mcommit 395c42be99285ff8f18b59212d27e54113d2ed69[m
+Author: su <assosu@gmail.com>
+Date:   Fri Feb 18 14:47:48 2022 +0800
+
+    add a py file
+
+[33mcommit bc41707ccb3fc9ea938da313e0a38bb95227ed2a[m
+Author: su <assosu@gmail.com>
+Date:   Fri Feb 18 14:46:42 2022 +0800
+
+    add gitignore
+
+[33mcommit 1bdb8b6a9c7e42ee040ea0cc704786f12a9f989e[m
+Author: su <assosu@gmail.com>
+Date:   Fri Feb 18 13:26:23 2022 +0800
+
+    test file
+
+[33mcommit 5f0fa89be43c4a8c59e0014b1db60b19dbf99d7f[m
+Author: su <assosu@gmail.com>
+Date:   Wed Feb 16 22:34:30 2022 +0800
+
+    another x1 commit
+
+[33mcommit 132b7be3abf95e3cbffb64ddc7dfb87f60711965[m
+Author: su <assosu@gmail.com>
+Date:   Wed Feb 16 16:36:50 2022 +0800
+
+    add file01
